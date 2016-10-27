@@ -7,7 +7,7 @@ This it what it do:
 * Uses xml syntax, and indent rules for .ux files
 * Add syntastic support for .ux files, by ignoring ux: namespace errors
 * Syntastic support for .uno files
-  - NOTE: Depends on `uno lint` command, which is not yet available in a released version of uno
+  - NOTE: Depends on `uno lint` command, which is available in Fuse 0.27+
 
 Yeah, it's not much. But it will hopefully become more interesting later..
 
